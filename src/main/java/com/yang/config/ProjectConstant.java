@@ -25,7 +25,7 @@ public final class ProjectConstant {
     public static final String ACTOR_UPLOADED_FOLDER = "img/actor_img/";
 
     //七牛云
-    public static final String ACCESS_KEY = "swAZvM_yGji8XCr_l7D7dP07iNZ7vF0N7Lpn9FPZ";
-    public static final String SECRET_KEY = "FI-chyvR3da9xxPRugkhN40tWKt80106OYTjM-Ad";
+    public static final String ACCESS_KEY = "";
+    public static final String SECRET_KEY = "";
     public static final String BUCKET = "mtime";
 }
